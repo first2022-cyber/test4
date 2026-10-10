@@ -1,4 +1,3 @@
-```python
 import json
 import re
 import requests
@@ -353,4 +352,3 @@ if unmatched_count:
         "일부 경계 코드에 해당하는 인구 데이터가 없습니다. "
         "지도에서 해당 지역은 색상이 표시되지 않을 수 있습니다."
     )
-```
