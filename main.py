@@ -1,4 +1,3 @@
-```python
 import re
 from io import BytesIO
 
@@ -655,4 +654,3 @@ with st.expander("시군구별 인구 및 비율 데이터 보기"):
         file_name=f"{selected_year}_시군구_인구지표.csv",
         mime="text/csv"
     )
-```
